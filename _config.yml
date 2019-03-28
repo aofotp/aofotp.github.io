@@ -62,10 +62,10 @@ disqus_username: Harold
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID:                        #生成的clientID
-  clientSecret:     #生成的clientSecret
-  repo: myyths.github.io    #仓库名称
-  owner:     #github用户名
+  clientID: db20319b11cd948eb8b5                       #生成的clientID
+  clientSecret:   70928f18553ed070e588a41bac4df5c3927339a0  #生成的clientSecret
+  repo: myouthdream    #仓库名称
+  owner:   myouthdream  #github用户名
   admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
